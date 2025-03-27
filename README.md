@@ -13,16 +13,16 @@
 
 ### 🌟 **About Me**
 
--📊 Passionate **Data Scientist & ML Engineer** with expertise in **AI, Deep Learning, and Data Analytics**.
--🤖 Building and deploying **Machine Learning & Deep Learning models** for real-world applications.
--🛠️ Experienced in **Data Wrangling, Feature Engineering, and Model Optimization** to drive high-performance solutions.
--🌐 Proficient with **Big Data technologies** such as Spark & Hadoop, enabling scalable and distributed data processing.
--📈 Strong background in **Data Visualization & Business Intelligence**, translating complex data into actionable insights.
--💻 Software Engineer with expertise in **Java, Python, C++**, and other programming languages, delivering high-quality, scalable software solutions.
--🖥️ Expertise in **Software Architecture, System Design, and building RESTful APIs** to integrate machine learning models into production environments.
--🛠️ Skilled in Agile development methodologies, using tools like Jira, Git, and CI/CD pipelines to ensure smooth development cycles and code deployment.
--🧑‍💻 Hands-on experience in **Cloud Computing platforms such as AWS, Azure, and Google Cloud**, utilizing services like EC2, Lambda, and Cloud Functions to deploy models and applications.
--🔥 Always exploring the latest trends in AI, Data Science, Software Engineering, and DevOps to create cutting-edge solutions.
+- 📊 Passionate **Data Scientist & ML Engineer** with expertise in **AI, Deep Learning, and Data Analytics**.
+- 🤖 Building and deploying **Machine Learning & Deep Learning models** for real-world applications.
+- 🛠️ Experienced in **Data Wrangling, Feature Engineering, and Model Optimization** to drive high-performance solutions.
+- 🌐 Proficient with **Big Data technologies** such as Spark & Hadoop, enabling scalable and distributed data processing.
+- 📈 Strong background in **Data Visualization & Business Intelligence**, translating complex data into actionable insights.
+- 💻 Software Engineer with expertise in **Java, Python, C++**, and other programming languages, delivering high-quality, scalable software solutions.
+- 🖥️ Expertise in **Software Architecture, System Design, and building RESTful APIs** to integrate machine learning models into production environments.
+- 🛠️ Skilled in Agile development methodologies, using tools like Jira, Git, and CI/CD pipelines to ensure smooth development cycles and code deployment.
+- 🧑‍💻 Hands-on experience in **Cloud Computing platforms such as AWS, Azure, and Google Cloud**, utilizing services like EC2, Lambda, and Cloud Functions to deploy models and applications.
+- 🔥 Always exploring the latest trends in AI, Data Science, Software Engineering, and DevOps to create cutting-edge solutions.
 
 
 
@@ -33,8 +33,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
