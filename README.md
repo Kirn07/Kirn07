@@ -3,8 +3,14 @@
 <p align ="center">Welcome to my GitHub profile! I’m a passionate Data Scientist, Machine Learning Engineer, and Software Developer with expertise in building scalable, data-driven solutions.</p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
+  <!-- Add GIFs related to Data Science, AI, and Software Development -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%" />
+
+<!-- More personalized Data Science & ML GIF -->
+<img src="https://media.giphy.com/media/3o6ZsXVoDZbft9Pfks/giphy.gif" width="48%" />
+<img src="https://media.giphy.com/media/26AHONhsm9ABer99O/giphy.gif" width="48%" />
+
 </p>
 
 
@@ -96,7 +102,7 @@
 ### 📊 **GitHub Stats**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirn07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirn07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirn07&theme=dark&hide_border=false)
+
 
 ---
 
