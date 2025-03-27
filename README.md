@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Kushwaha</h1>
-<h3 align="center">🤖 Data Scientist | Machine Learning Engineer | Software Developer 🚀</h3>
+<h3 align="center">🤖 Data Analytics | Machine Learning Engineer | Software Developer 🚀</h3>
 <p align ="center">Welcome to my GitHub profile! I’m a passionate Data Scientist, Machine Learning Engineer, and Software Developer with expertise in building scalable, data-driven solutions.</p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🌟 **About Me**
 
-- 📊 Passionate **Data Scientist & ML Engineer** with expertise in **AI, Deep Learning, and Data Analytics**.
+- 📊 Passionate **Data Analytics & ML Engineer** with expertise in **AI, Deep Learning, and Data Analytics**.
 - 🤖 Building and deploying **Machine Learning & Deep Learning models** for real-world applications.
 - 🛠️ Experienced in **Data Wrangling, Feature Engineering, and Model Optimization** to drive high-performance solutions.
 - 🌐 Proficient with **Big Data technologies** such as Spark & Hadoop, enabling scalable and distributed data processing.
@@ -122,5 +122,5 @@
 ---
 
 ### 📢 **Want to Collaborate?**
-If you're passionate about **Data Science, AI, Machine Learning, Software Development**, or building cutting-edge tech, let's connect! Together, we can transform ideas into reality and create something amazing! 🌟
+If you're passionate about **Data Science, Data Analytics, AI, Machine Learning, Software Development**, or building cutting-edge tech, let's connect! Together, we can transform ideas into reality and create something amazing! 🌟
 🤝 Whether you're a fellow enthusiast, a developer, or a visionary, I believe we can make great things happen. Let's unlock the true potential of **AI, Data, and Software Development** to push the boundaries of what's possible! 🚀
